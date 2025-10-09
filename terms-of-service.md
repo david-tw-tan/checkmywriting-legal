@@ -62,7 +62,7 @@ We may update these terms. Continued use of the app constitutes acceptance of ch
 
 For questions about these terms, contact us at:
 - Email: david.tw.tan@gmail.com
-- Website: www.checkmywriting.ai
+- Website: https://david-tw-tan.github.io/checkmywriting-legal
 
 ## Governing Law
 
