@@ -1,10 +1,10 @@
-# Privacy Policy for Check My Writing
+# Privacy Policy for Check My Writing AI
 
 **Last updated: Oct 9, 2025**
 
 ## Information We Collect
 
-Check My Writing collects and processes the following information:
+Check My Writing AI collects and processes the following information:
 
 ### Personal Information
 - **Email Address**: When you create an account or sign in
@@ -45,7 +45,7 @@ We use the following third-party services:
 
 ## Children's Privacy
 
-Check My Writing is designed for educational use. We do not knowingly collect personal information from children under 13 without parental consent.
+Check My Writing AI is designed for educational use. We do not knowingly collect personal information from children under 13 without parental consent.
 
 ## Changes to This Policy
 
@@ -59,4 +59,4 @@ If you have questions about this privacy policy, contact us at:
 
 ---
 
-*This privacy policy is effective as of Oct 1, 2025 and applies to all users of Check My Writing.*
+*This privacy policy is effective as of Oct 1, 2025 and applies to all users of Check My Writing AI.*

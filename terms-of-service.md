@@ -1,14 +1,14 @@
-# Terms of Service for Check My Writing
+# Terms of Service for Check My Writing AI
 
 **Last updated: Oct 9, 2025**
 
 ## Acceptance of Terms
 
-By downloading, installing, or using Check My Writing, you agree to be bound by these Terms of Service.
+By downloading, installing, or using Check My Writing AI, you agree to be bound by these Terms of Service.
 
 ## Description of Service
 
-Check My Writing is an educational app that provides AI-powered writing analysis and feedback to help improve writing skills.
+Check My Writing AI is an educational app that provides AI-powered writing analysis and feedback to help improve writing skills.
 
 ## User Accounts
 
@@ -48,7 +48,7 @@ Your privacy is important to us. Please review our Privacy Policy to understand 
 
 ## Limitation of Liability
 
-Check My Writing is provided "as is" without warranties. We are not liable for any damages arising from your use of the service.
+Check My Writing AI is provided "as is" without warranties. We are not liable for any damages arising from your use of the service.
 
 ## Termination
 
@@ -70,4 +70,4 @@ These terms are governed by the laws of Hong Kong.
 
 ---
 
-*These Terms of Service are effective as of Oct 1, 2025 and apply to all users of Check My Writing.*
+*These Terms of Service are effective as of Oct 1, 2025 and apply to all users of Check My Writing AI.*
