@@ -54,7 +54,7 @@ We may update this privacy policy. We will notify you of significant changes thr
 ## Contact Us
 
 If you have questions about this privacy policy, contact us at:
-- Email: david.tw.tan@gmail.com
+- Email: davidapps.contact@gmail.com
 - Website: https://david-tw-tan.github.io/checkmywriting-legal
 
 ---
