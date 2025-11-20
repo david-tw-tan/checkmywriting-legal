@@ -121,4 +121,3 @@ For issues related to purchases, subscriptions, or App Store account management,
 **Thank you for using Check My Writing!** We appreciate your feedback and are committed to providing the best possible experience for young writers.
 
 *For support inquiries, contact: davidapps.contact@gmail.com*
-
