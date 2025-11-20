@@ -95,7 +95,7 @@ A: Yes. Check My Writing is designed for educational use by students in grades 3
 
 ## Report a Bug
 
-Found a bug or issue? Please email us at **david.tw.tan@gmail.com** with:
+Found a bug or issue? Please email us at **davidapps.contact@gmail.com** with:
 - A clear description of the problem
 - Steps to reproduce the issue
 - Your device model and iOS version
@@ -103,7 +103,7 @@ Found a bug or issue? Please email us at **david.tw.tan@gmail.com** with:
 
 ## Feature Requests
 
-Have an idea for improving Check My Writing? We'd love to hear from you! Send your suggestions to **david.tw.tan@gmail.com**.
+Have an idea for improving Check My Writing? We'd love to hear from you! Send your suggestions to **davidapps.contact@gmail.com**.
 
 ## Additional Resources
 
@@ -120,5 +120,5 @@ For issues related to purchases, subscriptions, or App Store account management,
 
 **Thank you for using Check My Writing!** We appreciate your feedback and are committed to providing the best possible experience for young writers.
 
-*For support inquiries, contact: david.tw.tan@gmail.com*
+*For support inquiries, contact: davidapps.contact@gmail.com*
 
