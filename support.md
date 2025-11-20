@@ -10,7 +10,7 @@ Need assistance with Check My Writing? We're here to help! This page provides in
 
 For questions, technical issues, subscription inquiries, or general support, please contact us:
 
-**Email:** [david.tw.tan@gmail.com](mailto:david.tw.tan@gmail.com)
+**Email:** [davidapps.contact@gmail.com](mailto:davidapps.contact@gmail.com)
 
 We aim to respond to all support inquiries within 48 hours. Please include:
 - A description of your question or issue
